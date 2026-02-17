@@ -1,0 +1,5 @@
+{
+  "name": "Veo Animator",
+  "description": "Transform static images into realistic, handheld smartphone video footage using the powerful Gemini Veo 3.1 model.",
+  "requestFramePermissions": []
+}
